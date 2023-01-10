@@ -45,7 +45,7 @@
 
 <h3>Databases & ORM</h3>
 
-[![Tech: MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&style=flat&logoColor=white&labelColor=gray)](https://www.mysql.com/)
+[![Tech: MySQL](https://img.shields.io/badge/MySQL-e6882e?logo=mysql&style=flat&logoColor=e6882e&labelColor=gray)](https://www.mysql.com/)
 [![Tech: PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&style=flat&logoColor=31648c&labelColor=eeeeee)](https://www.postgresql.org/)
 [![Tech: MongoDB](https://img.shields.io/badge/MongoDB-14a44d?logo=mongodb&style=flat&logoColor=14a44d&labelColor=eeeeee)](https://www.mongodb.com/)
 [![Tech: TypeORM](https://img.shields.io/badge/TypeORM-f60803?style=flat)](https://typeorm.io/)
