@@ -26,11 +26,11 @@
 
 [![Tech: Javascript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&style=flat&logoColor=f7df1e&labelColor=gray)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Tech: Typescript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&style=flat&logoColor=3178c6&labelColor=eeeeee)](https://www.typescriptlang.org/)
-[![Tech: Java](https://img.shields.io/badge/Java-red?logo=java&style=flat&logoColor=red)](https://www.java.com/es/)
+[![Tech: Java](https://img.shields.io/badge/Java-F80000?logo=oracle&style=flat&logoColor=F80000&labelColor=gray)](https://www.java.com/es/)
 [![Tech: Python](https://img.shields.io/badge/Python-4b8bbe?logo=python&style=flat&logoColor=white&labelColor=gray)](https://www.python.org/)
 [![Tech: Swift](https://img.shields.io/badge/Swift-f05137?logo=swift&style=flat&logoColor=f05137&labelColor=eeeeee)](https://developer.apple.com/swift/)
 
-<h3>Web Development Frameworks</h3>
+<h3>Frontend Development</h3>
 
 [![Tech: Angular](https://img.shields.io/badge/Angular-dd1b16?logo=angular&style=flat&logoColor=dd1b16&labelColor=eeeeee)](https://angular.io/)
 [![Tech: React](https://img.shields.io/badge/React-61dbfb?logo=react&style=flat&logoColor=61dbfb&labelColor=gray)](https://reactjs.org/)
