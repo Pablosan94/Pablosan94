@@ -7,8 +7,6 @@
 
 <p>I like to build things that can make people's lives easier through technology.</p>
 
-<p>Media enthusiast in it's many forms: movies 🎬, TV shows 📺, music 🎼, videogames 🎮</p>
-
 <p>Always striving to learn something new, whether it's a new technology for work or taking on some new hobby in my own time.</p>
 
 <p>As a developer, I have worn multiple hats for different jobs such as Full Stack, Frontend, Team Manager...</p>
