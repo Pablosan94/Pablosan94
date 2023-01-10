@@ -28,7 +28,7 @@
 [![Tech: Typescript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&style=flat&logoColor=3178c6&labelColor=eeeeee)](https://www.typescriptlang.org/)
 [![Tech: Java](https://img.shields.io/badge/Java-red?logo=java&style=flat&logoColor=red)](https://www.java.com/es/)
 [![Tech: Python](https://img.shields.io/badge/Python-4b8bbe?logo=python&style=flat&logoColor=white&labelColor=gray)](https://www.python.org/)
-[![Tech: Swift](https://img.shields.io/badge/Swift-fca03d?logo=swift&style=flat&logoColor=fca03d&labelColor=eeeeee)](https://developer.apple.com/swift/)
+[![Tech: Swift](https://img.shields.io/badge/Swift-f05137?logo=swift&style=flat&logoColor=f05137&labelColor=eeeeee)](https://developer.apple.com/swift/)
 
 <h3>Web Development Frameworks</h3>
 
