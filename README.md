@@ -13,7 +13,7 @@
 
 <p>I have been a professional Full Stack developer since January 2017.</p>
 
-<h2>Technologies I'm familiar with</h2>
+<h2>Some technologies I'm familiar with</h2>
 
 <h3>Markup & Styling</h3>
 
