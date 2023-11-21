@@ -9,7 +9,7 @@
 
 <p>Always striving to learn something new, whether it's a new technology for work or taking on some new hobby in my own time.</p>
 
-<p>As a developer, I have worn multiple hats for different jobs such as Full Stack, Frontend, Team Manager...</p>
+<p>As a developer, I've worked at several positions such as Full Stack, Frontend, Team Manager...</p>
 
 <p>I have been a professional Full Stack developer since January 2017.</p>
 
