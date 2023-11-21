@@ -51,7 +51,7 @@
 [![Tech: TypeORM](https://img.shields.io/badge/TypeORM-f60803?style=flat)](https://typeorm.io/)
 [![Tech: Mongoose](https://img.shields.io/badge/Mongoose-870001?style=flat)](https://mongoosejs.com/)
 [![Tech: Hibernate](https://img.shields.io/badge/Hibernate-b6a875?logo=hibernate&style=flat&logoColor=b6a875&labelColor=gray)](https://hibernate.org/)
-[![Tech: Prisma](https://img.shields.io/badge/Hibernate-2d3748?logo=prisma&style=flat&logoColor=2d3748&labelColor=white)](https://www.prisma.io/)
+[![Tech: Prisma](https://img.shields.io/badge/Prisma-2d3748?logo=prisma&style=flat&logoColor=2d3748&labelColor=white)](https://www.prisma.io/)
 
 <h3>Workflow & Tooling</h3>
 
